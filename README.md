@@ -6,11 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkc2407&label=Profile%20views&color=0e75b6&style=flat" alt="tkc2407" /> </p>
 
+<br>
+
 - 💬 Ask me about **Data Structures & Algoritms and Web Devlopment**
 
 - 📫 How to reach me **tapaschaubey@gmail.com**
 
-<br>
 <br>
 
 <h3 align="left">Connect with me:</h3>
