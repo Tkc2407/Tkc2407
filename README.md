@@ -8,7 +8,7 @@
 
 <br>
 
-- 💬 Ask me about **Data Structures & Algoritms and Web Devlopment**
+- 💬 Ask me about **Data Structures, Algorithms and Web Development**
 
 - 📫 How to reach me **tapaschaubey@gmail.com**
 
